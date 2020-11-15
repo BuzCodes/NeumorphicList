@@ -19,8 +19,9 @@ struct TaskList: View {
             .onDelete(perform: { indexSet in
                 self.onDelete(self.tasks[indexSet.first!])
             })
+            .listRowInsets(EdgeInsets())
+            .background(Color(UIColor(#colorLiteral(red: 0.8980392157, green: 0.9333333333, blue: 1, alpha: 1)).withAlphaComponent(0.9)))
         }
-        .animation(.easeOut)
         .navigationBarItems(trailing: EditButton().foregroundColor(Color(#colorLiteral(red: 0.3411764801, green: 0.6235294342, blue: 0.1686274558, alpha: 1))))
         .navigationBarTitle(Text("Tasks"))
     }
