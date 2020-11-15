@@ -3,9 +3,9 @@
 
 >  Don't forget anything with Tasks!.
 
-![](ToDo.mp4)
-
-
+|   |   |
+|---|---|
+| ![](screen1.png)  |  ![](screen2.png) |
 
 ## Features
 
