@@ -3,9 +3,7 @@
 
 >  Don't forget anything with Tasks!.
 
-|   |   |
-|---|---|
-| ![](screen1.png)  |  ![](screen2.png) |
+<img src="screen2.png" alt="Image Alt Text" height="750">
 
 ## Features
 
@@ -26,5 +24,16 @@
 
 - iOS 13.0+
 - Xcode 11.0+
+
+## Getting Started
+
+1. Clone the repository:
+```bash
+git clone https://github.com/your-username/Tasks.git
+```
+
+2. Open the project in Xcode.
+
+3. Build and run the app.
 
 ## Thanks for stopping by!
