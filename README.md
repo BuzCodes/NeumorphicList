@@ -1,7 +1,7 @@
 # Tasks
 >  iOS App using SwiftUI and CoreData and Neuromorphic design
 
->  Don't forget anything with Tasks!.
+>  Stay on Top of Your To-Dos with Neuromorphic Design!
 
 <img src="screen2.png" alt="Image Alt Text" height="750">
 
