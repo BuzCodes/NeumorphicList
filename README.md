@@ -29,7 +29,7 @@
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/your-username/Tasks.git
+git clone https://github.com/HolyBuz/NeumorphicList
 ```
 
 2. Open the project in Xcode.
