@@ -7,7 +7,7 @@
 
 ## Features
 
-- [x] Neuromorphic design 
+- [x] Neumorphic design 
 - [x] Store permanently all your daily tasks and delete them when you're done
 
 #### 🔨 Technologies: SwiftUI, CoreData, No Third Party libraries.
@@ -15,7 +15,7 @@
 
 ## Includes
 
-- [x] Neuromorphic design on reusable AddButton.
+- [x] Neumorphic design on reusable AddButton.
 - [x] Custom modifiers to speed up your layout creation.
 - [x] Handling reactively the keyboard
 - [x] Modal presentation to add new tasks
